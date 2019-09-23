@@ -3,6 +3,8 @@
 # Online ATM
 Repository for the Official Elitium Online ATM Project
 
+Release version 1.1.4
+
 Elitium provides a luxury lifestyle platform for its clientele
 using a sustainable cryptocurrency solution.<br>
 <br>
